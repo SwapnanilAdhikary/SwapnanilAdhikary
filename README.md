@@ -13,7 +13,7 @@
 
 <h3 align="left">LeetCode Stats:</h3>
 <p align="left">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/swapnaniladhikary?theme=dark&font=roboto)
+  ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=swapnaniladhikary&theme=dark)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
