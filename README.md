@@ -19,6 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Add your language and tool icons here -->
+  ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=swapnaniladhikary&theme=dark)
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnaniladhikary&show_icons=true&locale=en&layout=compact" alt="swapnaniladhikary" /></p>
