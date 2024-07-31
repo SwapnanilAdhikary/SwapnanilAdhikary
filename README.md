@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnanil Adhikary</h1>
 <h3 align="center">a passionate Python developer with a knack for machine learning, web development, and ethical hacking. My journey into the world of code began with Python, and since then, I've delved into various realms, from crafting powerful machine learning models to building dynamic web applications. Ethical hacking is not just a skill for me; it's a commitment to using technology for positive change</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnaniladhikary" alt="swapnaniladhikary" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
