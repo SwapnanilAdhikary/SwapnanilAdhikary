@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnanil Adhikary</h1>
 <h3 align="center">a passionate Python developer with a knack for machine learning, web development, and ethical hacking. My journey into the world of code began with Python, and since then, I've delved into various realms, from crafting powerful machine learning models to building dynamic web applications. Ethical hacking is not just a skill for me; it's a commitment to using technology for positive change</h3>
+<img align="left" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 
