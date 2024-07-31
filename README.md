@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnaniladhikary&show_icons=true&locale=en&layout=compact" alt="swapnaniladhikary" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnaniladhikary&show_icons=true&locale=en" alt="swapnaniladhikary" /></p>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SwapnanilAdhikary&show_icons=true&theme=gotham" alt="SwapnanilAdhikary" />
