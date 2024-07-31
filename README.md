@@ -12,7 +12,9 @@
 </p>
 <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
+<p align="center>
+<img width=390 src="https://streak-stats.demolab.com/?user=SwapnanilAdhikary&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</p>  
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/swapnaniladhikary?theme=dark&font=Nunito&ext=heatmap" />  
