@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnanil Adhikary</h1>
-<h3 align="center">In a world where technology shapes our destiny 🌍, I am committed to crafting solutions that embody our highest ideals and propel humanity forward. Together, let’s forge a future where technology uplifts everyone 🤝, creating extraordinary possibilities that inspire and empower us all 🚀.</h3>
+<h3 align="center">In a world where technology shapes our destiny 🌍, I am committed to crafting solutions that embody our highest ideals and propel humanity forward. creating extraordinary possibilities that inspire and empower Humanity 🚀.</h3>
 <img align="left" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
