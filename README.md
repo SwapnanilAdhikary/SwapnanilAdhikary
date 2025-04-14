@@ -2,9 +2,7 @@
 
 <h3 align="center">
   In a world where technology shapes our destiny 🌍, I am committed to crafting solutions that embody our highest ideals and propel humanity forward — creating extraordinary possibilities that inspire and empower humanity 🚀.
-  <br><br>
-  🔗 <a href="https://my-portfolio-nine-jet-45.vercel.app/">Check out my Portfolio Website</a>
-</h3>
+  
 
 <p align="center">
   <a href="https://my-portfolio-nine-jet-45.vercel.app/" target="_blank">
