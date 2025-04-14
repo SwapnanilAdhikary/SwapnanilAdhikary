@@ -2,17 +2,21 @@
 
 <h3 align="center">
   In a world where technology shapes our destiny 🌍, I am committed to crafting solutions that embody our highest ideals and propel humanity forward — creating extraordinary possibilities that inspire and empower humanity 🚀.
-  
-<br><br>
+</h3>
+
+<br>
+
 <p align="center">
   <a href="https://my-portfolio-nine-jet-45.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
 
   <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIof_9iCoyfBWVPFUxErlcwBPvnOuxb36HjQ&s" alt="Follow on Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter" />
   </a>
 </p>
+
+<br>
 
 <p align="center">
   <img height="250" width="400" alt="Coding GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
@@ -42,7 +46,7 @@
 
 ---
 
-### 🐍 My Contributions Snake (Make sure GitHub Actions is setup ✅)
+### 🐍 My Contributions Snake
 
 <p align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SwapnanilAdhikary/SwapnanilAdhikary/output/github-contribution-grid-snake.svg" />
