@@ -3,7 +3,7 @@
 <h3 align="center">
   In a world where technology shapes our destiny 🌍, I am committed to crafting solutions that embody our highest ideals and propel humanity forward — creating extraordinary possibilities that inspire and empower humanity 🚀.
   
-
+<br><br>
 <p align="center">
   <a href="https://my-portfolio-nine-jet-45.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
