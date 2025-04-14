@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://x.com/SwapnanilA41903" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter" />
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on X" />
   </a>
 </p>
 
