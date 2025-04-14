@@ -46,11 +46,7 @@
 
 ---
 
-### 🐍 My Contributions Snake
 
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SwapnanilAdhikary/SwapnanilAdhikary/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
