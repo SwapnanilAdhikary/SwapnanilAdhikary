@@ -26,6 +26,13 @@
 
 ---
 
+### 🧑‍💼 Experience
+
+- 💼 **Current Intern** at **Flr Spectron Ltd** — Working on cutting-edge technologies to build impactful software solutions.  
+- 🏦 **Former Intern** at **RapiPay** — Contributed to backend development and automation in fintech environments.
+
+---
+
 ### 📊 My GitHub Stats
 
 <p align="center">
@@ -43,10 +50,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwapnanilAdhikary&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </p>
-
----
-
-
 
 ---
 
