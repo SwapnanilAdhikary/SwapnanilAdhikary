@@ -171,7 +171,10 @@ Zero-copy parsing of log-like text over memory-mapped files. Fields are `&str` v
 
 ## ⌁ ~/play — maze.exe
 
-A maze that everyone plays together, straight out of my OS's boot sequence. Steer the 🌈 cursor to the **EXIT**. Each click opens a pre-filled issue: submit it and a GitHub Action makes the move within about 30 seconds. Corridors auto-run to the next junction, so every move counts.
+A maze that everyone plays together, straight out of my OS's boot sequence. Steer the 🌈 cursor to the **EXIT**.
+
+> [!TIP]
+> **How to play:** ① click a direction below → GitHub opens a *New issue* page with your move already filled in · ② press **Create** (don't change anything) · ③ come back in ~30 s and refresh. The cursor auto-runs corridors to the next junction, and the bot replies on your issue with how close you are.
 
 <!-- MAZE:START -->
 <p align="center"><img src="maze/maze.svg?v=1" width="100%" alt="maze.exe: 1 moves and 0 escapes so far" /></p>
@@ -179,11 +182,11 @@ A maze that everyone plays together, straight out of my OS's boot sequence. Stee
 <!-- MAZE:END -->
 
 <p align="center">
-  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cup&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here."><img src="https://img.shields.io/badge/%E2%96%B2%20up-161b22?style=for-the-badge" alt="Move up" /></a>
+  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cup&body=Just%20press%20%2A%2ACreate%2A%2A%20below.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here.%20Then%20head%20back%20to%20https%3A//github.com/SwapnanilAdhikary%20and%20refresh."><img src="https://img.shields.io/badge/%E2%96%B2%20up-161b22?style=for-the-badge" alt="Move up" /></a>
   <br/>
-  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cleft&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here."><img src="https://img.shields.io/badge/%E2%97%80%20left-161b22?style=for-the-badge" alt="Move left" /></a>
-  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cdown&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here."><img src="https://img.shields.io/badge/%E2%96%BC%20down-161b22?style=for-the-badge" alt="Move down" /></a>
-  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cright&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here."><img src="https://img.shields.io/badge/right%20%E2%96%B6-161b22?style=for-the-badge" alt="Move right" /></a>
+  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cleft&body=Just%20press%20%2A%2ACreate%2A%2A%20below.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here.%20Then%20head%20back%20to%20https%3A//github.com/SwapnanilAdhikary%20and%20refresh."><img src="https://img.shields.io/badge/%E2%97%80%20left-161b22?style=for-the-badge" alt="Move left" /></a>
+  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cdown&body=Just%20press%20%2A%2ACreate%2A%2A%20below.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here.%20Then%20head%20back%20to%20https%3A//github.com/SwapnanilAdhikary%20and%20refresh."><img src="https://img.shields.io/badge/%E2%96%BC%20down-161b22?style=for-the-badge" alt="Move down" /></a>
+  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cright&body=Just%20press%20%2A%2ACreate%2A%2A%20below.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here.%20Then%20head%20back%20to%20https%3A//github.com/SwapnanilAdhikary%20and%20refresh."><img src="https://img.shields.io/badge/right%20%E2%96%B6-161b22?style=for-the-badge" alt="Move right" /></a>
 </p>
 
 ## ⌁ ~/stack
