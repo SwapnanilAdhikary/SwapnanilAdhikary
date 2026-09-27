@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="344" viewBox="0 0 900 344" role="img" aria-labelledby="t">
+  <title id="t">Terminal: whoami → Swapnanil Adhikary, SDE at Tellia, Paris. Builds AI that acts and systems from scratch.</title>
+  <defs>
+    <linearGradient id="rainbow" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff7b72"/>
+      <stop offset=".2" stop-color="#ffa657"/>
+      <stop offset=".4" stop-color="#f2cc60"/>
+      <stop offset=".6" stop-color="#7ee787"/>
+      <stop offset=".8" stop-color="#79c0ff"/>
+      <stop offset="1" stop-color="#d2a8ff"/>
+    </linearGradient>
+    <clipPath id="win"><rect width="900" height="344" rx="12"/></clipPath>
+  </defs>
+  <style>
+    .m{font:19px ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    .ok{fill:#7ee787}.dir{fill:#79c0ff}.cmd{fill:#e6edf3}.out{fill:#c9d1d9}.dim{fill:#8b949e}.hi{fill:#d2a8ff}.hot{fill:#ff7b72}
+    @keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+    @keyframes show{from{opacity:0}to{opacity:1}}
+    @keyframes blink{0%,50%{opacity:1}50.01%,100%{opacity:0}}
+    .c1{animation:type .6s steps(6) .6s both}
+    .o1{animation:show .01s 1.5s both}
+    .p2{animation:show .01s 1.9s both}
+    .c2{animation:type .9s steps(13) 2.2s both}
+    .o2{animation:show .01s 3.4s both}
+    .p3{animation:show .01s 3.8s both}
+    .c3{animation:type .8s steps(13) 4.1s both}
+    .o3{animation:show .01s 5.2s both}
+    .p4{animation:show .01s 5.6s both}
+    .cur{animation:blink 1.1s steps(1) infinite}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g clip-path="url(#win)">
+    <rect width="900" height="344" fill="#0d1117"/>
+    <rect width="900" height="44" fill="#161b22"/>
+    <rect y="44" width="900" height="3" fill="url(#rainbow)"/>
+    <circle cx="26" cy="22" r="7" fill="#ff5f56"/>
+    <circle cx="50" cy="22" r="7" fill="#ffbd2e"/>
+    <circle cx="74" cy="22" r="7" fill="#27c93f"/>
+    <text x="450" y="28" text-anchor="middle" class="m dim" style="font-size:15px">swapnanil@paris — zsh</text>
+  </g>
+  <rect x=".5" y=".5" width="899" height="343" rx="12" fill="none" stroke="#30363d"/>
+
+  <g class="m">
+    <text x="36" y="92" class="ok">➜</text><text x="62" y="92" class="dir">~</text>
+    <text x="86" y="92" class="cmd c1">whoami</text>
+    <text x="36" y="124" class="out o1">Swapnanil Adhikary <tspan class="dim">·</tspan> SDE @ <tspan class="hi">Tellia</tspan> <tspan class="dim">·</tspan> Paris</text>
+
+    <g class="p2"><text x="36" y="166" class="ok">➜</text><text x="62" y="166" class="dir">~</text></g>
+    <text x="86" y="166" class="cmd c2">cat focus.txt</text>
+    <text x="36" y="198" class="out o2">AI that <tspan class="ok">acts</tspan> instead of chats. Systems built <tspan class="hot">from scratch</tspan>.</text>
+
+    <g class="p3"><text x="36" y="240" class="ok">➜</text><text x="62" y="240" class="dir">~</text></g>
+    <text x="86" y="240" class="cmd c3">ls ~/building</text>
+    <text x="36" y="272" class="dir o3" style="white-space:pre">heed/  laya/  samjha/  soma/  pldjkfgew-os/  backyard/</text>
+
+    <g class="p4">
+      <text x="36" y="314" class="ok">➜</text><text x="62" y="314" class="dir">~</text>
+      <rect x="86" y="298" width="11" height="21" fill="#e6edf3" class="cur"/>
+    </g>
+  </g>
+</svg>
