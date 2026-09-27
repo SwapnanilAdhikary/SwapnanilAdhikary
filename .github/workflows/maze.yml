@@ -1,0 +1,35 @@
+name: maze
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'maze|')
+    runs-on: ubuntu-latest
+    env:
+      # Untrusted input: only ever read through env, never interpolated into the script.
+      TITLE: ${{ github.event.issue.title }}
+      PLAYER: ${{ github.event.issue.user.login }}
+      NUMBER: ${{ github.event.issue.number }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Move
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Two players at once: replay the move on top of the other one and push again.
+          for attempt in 1 2 3 4 5; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            python3 maze/game.py > reply.md
+            git diff --quiet && break
+            git commit -qam "maze: move by @$PLAYER" && git push -q origin HEAD:main && break
+            sleep $((RANDOM % 5 + 1))
+          done
+      - name: Reply
+        run: gh issue close "$NUMBER" --repo "$GITHUB_REPOSITORY" --comment "$(cat reply.md)"

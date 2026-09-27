@@ -169,6 +169,23 @@ Zero-copy parsing of log-like text over memory-mapped files. Fields are `&str` v
 
 </details>
 
+## ⌁ ~/play — maze.exe
+
+A maze that everyone plays together, straight out of my OS's boot sequence. Steer the 🌈 cursor to the **EXIT**. Each click opens a pre-filled issue: submit it and a GitHub Action makes the move within about 30 seconds. Corridors auto-run to the next junction, so every move counts.
+
+<!-- MAZE:START -->
+<p align="center"><img src="maze/maze.svg?v=0" width="100%" alt="maze.exe: 0 moves and 0 escapes so far" /></p>
+<p align="center"><sub><b>recent</b> nobody yet. Be player one!<br/><b>top explorers</b> empty</sub></p>
+<!-- MAZE:END -->
+
+<p align="center">
+  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cup&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here."><img src="https://img.shields.io/badge/%E2%96%B2%20up-161b22?style=for-the-badge" alt="Move up" /></a>
+  <br/>
+  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cleft&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here."><img src="https://img.shields.io/badge/%E2%97%80%20left-161b22?style=for-the-badge" alt="Move left" /></a>
+  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cdown&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here."><img src="https://img.shields.io/badge/%E2%96%BC%20down-161b22?style=for-the-badge" alt="Move down" /></a>
+  <a href="https://github.com/SwapnanilAdhikary/SwapnanilAdhikary/issues/new?title=maze%7Cright&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A.%20No%20need%20to%20change%20anything.%0A%0AA%20GitHub%20Action%20moves%20the%20rainbow%20cursor%2C%20redraws%20the%20maze%20on%20the%20profile%20in%20about%2030%20seconds%2C%20and%20replies%20here."><img src="https://img.shields.io/badge/right%20%E2%96%B6-161b22?style=for-the-badge" alt="Move right" /></a>
+</p>
+
 ## ⌁ ~/stack
 
 <p align="center">
@@ -179,8 +196,6 @@ Zero-copy parsing of log-like text over memory-mapped files. Fields are `&str` v
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SwapnanilAdhikary&background=0D1117&border=30363D&stroke=30363D&ring=7EE787&fire=FF7B72&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7EE787&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="GitHub streak" />
-  &nbsp;
-  <img src="https://leetcard.jacoblin.cool/swapnaniladhikary?theme=dark&font=JetBrains%20Mono&border=0&radius=12" alt="LeetCode stats" />
 </p>
 
 <br/>

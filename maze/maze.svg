@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img" aria-labelledby="t">
+  <title id="t">maze.exe: a community maze. The rainbow cursor is moves 0 · escapes 0 · exit 24 away · waiting for player 1.</title>
+  <defs>
+    <linearGradient id="rb" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff7b72"/><stop offset=".25" stop-color="#f2cc60"/><stop offset=".5" stop-color="#7ee787"/><stop offset=".75" stop-color="#79c0ff"/><stop offset="1" stop-color="#d2a8ff"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff7b72"/><stop offset=".2" stop-color="#ffa657"/><stop offset=".4" stop-color="#f2cc60"/><stop offset=".6" stop-color="#7ee787"/><stop offset=".8" stop-color="#79c0ff"/><stop offset="1" stop-color="#d2a8ff"/>
+    </linearGradient>
+    <clipPath id="win"><rect width="900" height="440" rx="12"/></clipPath>
+  </defs>
+  <style>
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    @keyframes pulse{50%{opacity:.35}}
+    .exit{animation:pulse 1.6s ease-in-out infinite}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <g clip-path="url(#win)">
+    <rect width="900" height="440" fill="#0d1117"/>
+    <rect width="900" height="44" fill="#161b22"/>
+    <rect y="44" width="900" height="3" fill="url(#bar)"/>
+    <circle cx="26" cy="22" r="7" fill="#ff5f56"/><circle cx="50" cy="22" r="7" fill="#ffbd2e"/><circle cx="74" cy="22" r="7" fill="#27c93f"/>
+    <text x="450" y="28" text-anchor="middle" class="m" font-size="15" fill="#8b949e">maze.exe — Pldjkfgew@345</text>
+  </g>
+  <rect x=".5" y=".5" width="899" height="439" rx="12" fill="none" stroke="#30363d"/>
+  <g fill="#7ee787" opacity=".09"><rect x="80" y="76" width="36" height="36" rx="6"/></g>
+  <g class="exit"><rect x="784" y="340" width="36" height="36" rx="6" fill="#7ee787" opacity=".25" stroke="#7ee787"/>
+    <text x="802.0" y="362.0" text-anchor="middle" class="m" font-size="11" font-weight="700" fill="#7ee787">EXIT</text></g>
+  <path d="M76 72H824M76 72V380M120 116H164M164 116H208M208 116H252M296 116H340M340 116H384M516 72V116M472 116H516M604 72V116M560 116H604M648 72V116M692 72V116M780 72V116M736 116H780M824 72V116M76 160H120M208 116V160M164 160H208M252 116V160M252 160H296M340 116V160M296 160H340M384 116V160M428 116V160M428 160H472M516 160H560M604 116V160M692 160H736M736 160H780M824 116V160M780 160H824M120 160V204M296 204H340M384 160V204M340 204H384M428 160V204M428 204H472M560 160V204M560 204H604M648 160V204M604 204H648M648 204H692M692 204H736M736 204H780M824 160V204M76 248H120M164 204V248M208 204V248M252 204V248M208 248H252M252 248H296M296 248H340M384 204V248M384 248H428M472 204V248M428 248H472M516 204V248M472 248H516M560 204V248M516 248H560M604 248H648M692 204V248M648 248H692M780 204V248M824 204V248M780 248H824M120 248V292M164 248V292M164 292H208M208 292H252M340 248V292M340 292H384M428 292H472M604 292H648M736 248V292M824 248V292M780 292H824M252 292V336M208 336H252M296 292V336M252 336H296M340 292V336M384 292V336M472 292V336M428 336H472M516 292V336M472 336H516M560 292V336M516 336H560M648 292V336M604 336H648M692 292V336M648 336H692M736 292V336M736 336H780M824 292V336M120 336V380M76 380H120M164 336V380M120 380H164M164 380H208M252 336V380M208 380H252M252 380H296M296 380H340M384 336V380M340 380H384M384 380H428M428 380H472M472 380H516M560 336V380M516 380H560M604 336V380M560 380H604M604 380H648M648 380H692M736 336V380M692 380H736M736 380H780M824 336V380M780 380H824" stroke="#8b949e" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <polygon transform="translate(90 81)" points="0,0 0,22 6,17 10,26 14,24 10,15 18,15" fill="url(#rb)" stroke="#0d1117" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="76" y="416" class="m" font-size="15"><tspan fill="#7ee787">➜</tspan> <tspan fill="#c9d1d9">moves 0 · escapes 0 · exit 24 away · waiting for player 1</tspan></text>
+</svg>
