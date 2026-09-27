@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="344" viewBox="0 0 900 344" role="img" aria-labelledby="t">
-  <title id="t">Terminal: whoami → Swapnanil Adhikary, SDE at Tellia, Paris. Builds AI that acts and systems from scratch.</title>
+  <title id="t">Terminal: whoami → Swapnanil Adhikary, SDE at Tellia. Builds AI that acts and systems from scratch.</title>
   <defs>
     <linearGradient id="rainbow" x1="0" x2="1">
       <stop offset="0" stop-color="#ff7b72"/>
@@ -37,14 +37,14 @@
     <circle cx="26" cy="22" r="7" fill="#ff5f56"/>
     <circle cx="50" cy="22" r="7" fill="#ffbd2e"/>
     <circle cx="74" cy="22" r="7" fill="#27c93f"/>
-    <text x="450" y="28" text-anchor="middle" class="m dim" style="font-size:15px">swapnanil@paris — zsh</text>
+    <text x="450" y="28" text-anchor="middle" class="m dim" style="font-size:15px">swapnanil — zsh</text>
   </g>
   <rect x=".5" y=".5" width="899" height="343" rx="12" fill="none" stroke="#30363d"/>
 
   <g class="m">
     <text x="36" y="92" class="ok">➜</text><text x="62" y="92" class="dir">~</text>
     <text x="86" y="92" class="cmd c1">whoami</text>
-    <text x="36" y="124" class="out o1">Swapnanil Adhikary <tspan class="dim">·</tspan> SDE @ <tspan class="hi">Tellia</tspan> <tspan class="dim">·</tspan> Paris</text>
+    <text x="36" y="124" class="out o1">Swapnanil Adhikary <tspan class="dim">·</tspan> SDE @ <tspan class="hi">Tellia</tspan></text>
 
     <g class="p2"><text x="36" y="166" class="ok">➜</text><text x="62" y="166" class="dir">~</text></g>
     <text x="86" y="166" class="cmd c2">cat focus.txt</text>

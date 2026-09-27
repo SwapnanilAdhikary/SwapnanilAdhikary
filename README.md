@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Terminal: whoami — Swapnanil Adhikary, SDE at Tellia, Paris. AI that acts instead of chats. Systems built from scratch." />
+<img src="assets/header.svg" width="100%" alt="Terminal: whoami — Swapnanil Adhikary, SDE at Tellia. AI that acts instead of chats. Systems built from scratch." />
 
 <br/>
 
@@ -21,7 +21,7 @@
 - 🎙️ **Shipping [Heed](https://github.com/SwapnanilAdhikary/Heed):** hold <kbd>⌥</kbd> <kbd>Space</kbd>, say what you want, and your Mac does it. There's no LLM in the loop.
 - 🧠 **Stress-testing [Laya](https://github.com/SwapnanilAdhikary/Laya-Automations):** a 421M-parameter decision model plays Doom, Doom II and Montezuma's Revenge at the same time on one Mac.
 - 🇮🇳 **Building [SAMJHA](https://github.com/SwapnanilAdhikary/SAMJHA):** voice-first informed consent for Indian retail loans, so borrowers actually understand the terms they agree to.
-- 💼 **SDE at Tellia**, Paris.
+- 💼 **SDE at Tellia**.
 
 ## ⌁ ~/ai — things that act
 
@@ -161,7 +161,7 @@ Zero-copy parsing of log-like text over memory-mapped files. Fields are `&str` v
 
 | | |
 |---|---|
-| 🗺️ [**A\* vs Dijkstra on Paris**](https://github.com/SwapnanilAdhikary/Path-Finding-Algorithm-implementations-on-OpenMaps-data) | Pathfinding on real OpenStreetMap data, with animated exploration maps. |
+| 🗺️ [**A\* vs Dijkstra**](https://github.com/SwapnanilAdhikary/Path-Finding-Algorithm-implementations-on-OpenMaps-data) | Pathfinding on real OpenStreetMap data, with animated exploration maps. |
 | 💬 [**P2P chat**](https://github.com/SwapnanilAdhikary/P2P-chatRoom-CLI-in-Rust-) · [**sysmon**](https://github.com/SwapnanilAdhikary/System-Monitor-Tool-Rust-) · [**compression**](https://github.com/SwapnanilAdhikary/File_Compression_Rust-) | A growing pile of small Rust CLIs. |
 | ✏️ [**Text editor in C**](https://github.com/SwapnanilAdhikary/Text_Editor_C) | A text editor written in C. |
 | 🌿 [**Movy**](https://github.com/SwapnanilAdhikary/Movy) | An on-device digital-detox app with streaks, missions and a journal. Expo and SQLite, with no servers. |
@@ -186,8 +186,8 @@ Zero-copy parsing of log-like text over memory-mapped files. Fields are `&str` v
 <div align="center">
 
 ```text
-Paris, 3 a.m.
-my kernel boots, then panics —
+3 a.m. again —
+my kernel boots, then panics;
 the cursor's rainbow.
 ```
 
