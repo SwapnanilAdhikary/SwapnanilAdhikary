@@ -1,1 +1,1 @@
-{"moves": 0, "escapes": 0, "recent": [], "players": {}, "seed": 906686553, "pos": [0, 0], "trail": [[0, 0]]}
+{"moves": 1, "escapes": 0, "recent": [["SwapnanilAdhikary", "right"]], "players": {"SwapnanilAdhikary": [1, 0]}, "seed": 906686553, "pos": [4, 0], "trail": [[0, 0], [1, 0], [2, 0], [3, 0], [4, 0]]}

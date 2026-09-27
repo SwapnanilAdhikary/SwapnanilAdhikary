@@ -174,8 +174,8 @@ Zero-copy parsing of log-like text over memory-mapped files. Fields are `&str` v
 A maze that everyone plays together, straight out of my OS's boot sequence. Steer the 🌈 cursor to the **EXIT**. Each click opens a pre-filled issue: submit it and a GitHub Action makes the move within about 30 seconds. Corridors auto-run to the next junction, so every move counts.
 
 <!-- MAZE:START -->
-<p align="center"><img src="maze/maze.svg?v=0" width="100%" alt="maze.exe: 0 moves and 0 escapes so far" /></p>
-<p align="center"><sub><b>recent</b> nobody yet. Be player one!<br/><b>top explorers</b> empty</sub></p>
+<p align="center"><img src="maze/maze.svg?v=1" width="100%" alt="maze.exe: 1 moves and 0 escapes so far" /></p>
+<p align="center"><sub><b>recent</b> <a href="https://github.com/SwapnanilAdhikary">@SwapnanilAdhikary</a> →<br/><b>top explorers</b> <a href="https://github.com/SwapnanilAdhikary">@SwapnanilAdhikary</a> 1</sub></p>
 <!-- MAZE:END -->
 
 <p align="center">
