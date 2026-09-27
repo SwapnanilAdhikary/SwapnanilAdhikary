@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Terminal: whoami — Swapnanil Adhikary, SDE at Tellia. AI that acts instead of chats. Systems built from scratch." />
+<img src="assets/header.svg?v=2" width="100%" alt="Terminal: whoami — Swapnanil Adhikary, SDE at Tellia. AI that acts instead of chats. Systems built from scratch." />
 
 <br/>
 
